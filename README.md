@@ -20,7 +20,7 @@ Discord: https://discord.captchasonic.com
 
 - BLS OCR/Number CAPTCHA Solver
 
-![image](https://github.com/user-attachments/assets/85e42126-bb2d-4baf-8441-956a4c8b0f91)
+![image](https://github.com/user-attachments/assets/00506309-860f-45c2-b4f7-6d959edb6f4d)
 
 ## ⚡ How to Use
 
