@@ -3,12 +3,6 @@
 ## CaptchaSonic - BLS CAPTCHA Solver Extension
 Ai RPA and web unlocker solution.
 
-⭐ NEW UPDATE [DOWNLOAD for Chrome and Firefox v0.0.2](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
-
-💡 How to install on Chrome? [Guide for Chrome based browsers](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/blob/main/how_to_Install_Zip_Chrome_Extension_Guide.md)
-
-💡 How to install on Firefox? [Guide for Firefox based browsers](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/blob/main/how_to_Install_Zip_Chrome_Extension_Guide.md#loading-extensions-in-mozilla-firefox)
-
 ```
 Dashboard: https://my.captchasonic.com
 Website: https://captchasonic.com
